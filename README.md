@@ -1,7 +1,7 @@
 # financial_project
 The repository contains my financial analytics projects using Excel.
 
-# Financial Modeling and Equity Research Project
+## Financial Modeling and Equity Research Project
 
 • Analyzed 3-year financial statements and strategies of 5 comparable companies in men’s retailing industry
 
